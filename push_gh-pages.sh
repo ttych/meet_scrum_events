@@ -9,7 +9,7 @@ PUSH_BRANCH="${2:-gh-pages}"
 PUSH_STATUS=0
 PUSH_INIT_BRANCH=$(git rev-parse --abbrev-ref HEAD)
 
-if git branch -a | grep origin/${PUSH_BRANCH} >/dev/null; then
+if git branch -a | grep "origin/${PUSH_BRANCH}" >/dev/null; then
     git branch -f -d "${PUSH_BRANCH}" || exit 1
 fi
 
