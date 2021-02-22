@@ -1,0 +1,99 @@
+== Sprint Retrospective
+
+=== Focus
+
+[%step]
+- Team
+[%step]
+- Interaction
+[%step]
+- Process
+
+[.notes]
+--
+- fix in-depth process
+--
+
+=== Who
+
+The complete Scrum Team
+- Product Owner
+- Scrum Master
+- Developers
+
+[.notes]
+--
+--
+
+=== What
+
+[.notes]
+--
+--
+
+=== Flow
+
+[%step]
+- Set the stage
+[%step]
+- Gather Data
+[%step]
+- Generate insights
+[%step]
+- Decide what to do
+[%step]
+- Close
+
+[.notes]
+--
+In
+
+> Agile Retrospectives – Making Good Teams Great
+> by Esther Derby and Diana Larsen
+
+A collaborative Flow !
+--
+
+=== Outcome
+
+Action that are
+[%step]
+- coherent
+[%step]
+- realizable in 1 sprint
+[%step]
+- owned
+
+[.notes]
+--
+- Specific
+- Measurable
+- Achievable
+- Relevant
+- Time-bound
+--
+
+
+=== Warning
+
+- problem/solution flow.
+
+[.notes]
+--
+- why wait retrospective to fix problem ?
+--
+
+=== Smells
+
+- previous retro action not implemented.
+
+[.notes]
+--
+- why doing a new retro ?
+- wasted time ?
+--
+
+=== Resources
+
+- https://www.funretrospectives.com
+- https://retromat.org/

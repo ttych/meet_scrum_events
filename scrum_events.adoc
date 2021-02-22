@@ -1,0 +1,40 @@
+= Scrum Events
+:author: ttych
+:date: 2021-02-22
+:revnumber: v0.0.0
+:revealjsdir: reveal.js
+:revealjs_theme: beige
+:revealjs_transition: slide
+:revealjs_slideNumber: c/t
+:revealjs_showSlideNumber: speaker
+:revealjs_history: true
+:revealjs_fragmentInURL: true
+:revealjs_controls: true
+:revealjs_controlsLayout: edges
+:revealjs_controlsTutorial: true
+:revealjs_autoPlayMedia: true
+// :revealjs_width: 1408
+// :revealjs_height: 792
+:revealjs_width: 1440
+:revealjs_height: 792
+:revealjs_defaultTiming: 60
+// :revealjs_autoSlide: 60000
+// :revealjs_viewDistance: 3
+// :revealjs_transitionSpeed: fast
+:customcss: presentation.css
+:icons: font
+:source-highlighter: rouge
+// :source-highlighter: highlightjs
+// :highlightjs-theme: css/atom-one-light.css
+:imagesdir: images
+
+[.notes]
+--
+* focus on scrum events.
+* what to do.
+* what do avoid.
+--
+
+include::sprint-review.adoc[]
+
+include::sprint-retrospective.adoc[]

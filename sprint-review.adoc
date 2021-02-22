@@ -1,0 +1,128 @@
+== Sprint Review
+
+=== Focus
+
+Collect Feedback on:
+[%step]
+- *Product* [.step]#(built)#
+[%step]
+- *Product Backlog* [.step]#(to build)#
+
+[.notes]
+--
+- Product: what has been built.
+- Backlog: what will be build.
+--
+
+=== Who
+
+The complete Scrum Team
+- Product Owner
+- Scrum Master
+- Developers
+
++
+
+The Stakeholders
+
+[.notes]
+--
+- Stakeholders invited by the PO.
+--
+
+=== What: Sprint content
+
+[%step]
+- What is done / not done ?
+- Sprint Goal ?
+[%step]
+- What went well ?
+[%step]
+- Which problems encountered ?
+- How the problems were solved ?
+
+[.notes]
+--
+- done related to the D.o.D.
+--
+
+=== What: Demo
+
+[%step]
+- Do a demo on the work done.
+[%step]
+- To collect Feedback on the Increment.
+
+[.notes]
+--
+- What the customer think about the product ?
+- Answer to customer questions/requests/needs ?
+--
+
+=== What: Product Backlog
+
+[%step]
+- Talk about velocity
+- What should be done next ?
+
+[.notes]
+--
+- velocity: shorten/or-not delivery of next feature ?
+- next: opportunity ? new usage ?
+- next: change priority ?
+- next: input for sprint planning
+- budget ?
+--
+
+=== Outcome
+
+A Product Backlog
+[%step]
+- updated
+[%step]
+- adjusted
+[%step]
+- prioritized
+
+[%step]
+-> ready for Planification
+
+[.notes]
+--
+- Product vision vs. Project vision
+- Learn ?
+- Opportunities ?
+- Agility !
+--
+
+=== Warning
+
+[%step]
+- Not only a Demo.
+[%step]
+- Not a Steering Committee.
+
+[.notes]
+--
+- Demo: of course it works => DoD.
+- Steering Committee = Project management (vs. Product management).
+--
+
+=== Smells
+
+[%step]
+- no Stakeholders = no feedback !
+[%step]
+- too short = address everything ?
+[%step]
+- slides ? wasted time ?
+[%step]
+- too much time to prepare demo ?
+
+[.notes]
+--
+too much time:
+
+- prepare slides (detailed)
+- avoid demo effect ? what about DoD ?
+--
