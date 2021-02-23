@@ -16,14 +16,14 @@ Collect Feedback on:
 
 === Who
 
-The complete Scrum Team
+[%step]
+.*The complete Scrum Team*
 - Product Owner
 - Scrum Master
 - Developers
 
-+
-
-The Stakeholders
+[%step]
+and *The Stakeholders*
 
 [.notes]
 --
@@ -34,6 +34,7 @@ The Stakeholders
 
 [%step]
 - What is done / not done ?
+[%step]
 - Sprint Goal ?
 [%step]
 - What went well ?
