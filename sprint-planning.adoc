@@ -1,0 +1,59 @@
+== Sprint Planning
+
+=== Focus
+
+Have a plan for the next sprint.
+
+=== Who
+
+[%step]
+.*The complete Scrum Team*
+- Product Owner
+- Scrum Master
+- Developers
+
+[.notes]
+--
+--
+
+=== Outcome
+
+[%step]
+- Sprint Goal
+[%step]
+- Sprint Backlog (User Stories)
+[%step]
+- Plan (Technical Tasks)
+
+[.notes]
+--
+- defined by the team
+- not imposed !!!
+- imposed == no commitment
+--
+
+=== What: with PO
+
+[%step]
+- Define Sprint Goal
+[%step]
+- Select User Stories in the Sprint Backlog
+
+[.notes]
+--
+- select stories to reach Sprint Goal
+--
+
+=== What: without PO
+
+.Define the technical Plan to
+[%step]
+- complete User Stories in Sprint Backlog
+[%step]
+- reach the Sprint Goal
+
+[.notes]
+--
+- PO not needed: technical details
+- PO available: to adjust Goal / Stories ?
+--

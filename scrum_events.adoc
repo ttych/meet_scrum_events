@@ -35,6 +35,8 @@
 * what do avoid.
 --
 
+include::sprint-planning.adoc[]
+
 include::sprint-review.adoc[]
 
 include::sprint-retrospective.adoc[]

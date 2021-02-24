@@ -30,6 +30,27 @@ and *The Stakeholders*
 - Stakeholders invited by the PO.
 --
 
+=== Outcome
+
+A Product Backlog
+[%step]
+- updated
+[%step]
+- adjusted
+[%step]
+- prioritized
+
+[%step]
+-> ready for Planification
+
+[.notes]
+--
+- Product vision vs. Project vision
+- Learn ?
+- Opportunities ?
+- Agility !
+--
+
 === What: Sprint content
 
 [%step]
@@ -73,27 +94,6 @@ and *The Stakeholders*
 - next: change priority ?
 - next: input for sprint planning
 - budget ?
---
-
-=== Outcome
-
-A Product Backlog
-[%step]
-- updated
-[%step]
-- adjusted
-[%step]
-- prioritized
-
-[%step]
--> ready for Planification
-
-[.notes]
---
-- Product vision vs. Project vision
-- Learn ?
-- Opportunities ?
-- Agility !
 --
 
 === Warning

@@ -56,7 +56,11 @@ A collaborative Flow !
 
 === Outcome
 
-Action that are
+.Actions to
+[%step]
+- improve Team/Interactions/Processes
+
+.That are
 [%step]
 - coherent
 [%step]
@@ -72,7 +76,6 @@ Action that are
 - Relevant
 - Time-bound
 --
-
 
 === Warning
 
