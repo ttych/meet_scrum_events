@@ -37,6 +37,8 @@
 
 include::sprint-planning.adoc[]
 
+include::daily-scrum.adoc[]
+
 include::sprint-review.adoc[]
 
 include::sprint-retrospective.adoc[]
