@@ -25,13 +25,33 @@ The complete Scrum Team
 --
 --
 
-=== What
+=== Outcome
+
+.Actions to
+[%step]
+- improve Team/Interactions/Processes
+
+.That are
+[%step]
+- coherent
+[%step]
+- realizable in 1 sprint
+[%step]
+- owned
+[%step]
+- S.M.A.R.T. ?
 
 [.notes]
 --
+.SMART
+- Specific
+- Measurable
+- Achievable
+- Relevant
+- Time-bound
 --
 
-=== Flow
+=== What: Flow
 
 [%step]
 - Set the stage
@@ -54,49 +74,86 @@ In
 A collaborative Flow !
 --
 
-=== Outcome
+=== What: Set the stage
 
-.Actions to
-[%step]
-- improve Team/Interactions/Processes
-
-.That are
-[%step]
-- coherent
-[%step]
-- realizable in 1 sprint
-[%step]
-- owned
+- Short: 5 minutes.
+- Prime directive.
+- Energizer.
+- Be in the retrospective mindset.
 
 [.notes]
 --
-- Specific
-- Measurable
-- Achievable
-- Relevant
-- Time-bound
+- prime directive: just the slide after
 --
 
-=== Warning
+=== The Prime Directive
 
-- problem/solution flow.
+.Regardless of what we discover, we understand and truly believe that everyone did the best job they could, given what they knew at the time, their skills and abilities, the resources available, and the situation at hand.
+[quote, Norm Kerth, Project Retrospectives: A Handbook for Team Review]
+
+=== What: Gather Data
+
+- be factual.
+- avoid emotional.
+- no reasons, no ideas.
+- no actions.
 
 [.notes]
 --
-- why wait retrospective to fix problem ?
+- no ideas: no short-circuit, missleading.
+- no actions: no short-circuit, provide wrong conclusion.
+--
+
+=== What: Generate insights
+
+- generate ideas.
+- find the right problem.
+
+[.notes]
+--
+--
+
+=== What: Decide what to do
+
+- a consequence from the previous step.
+- find the right formulation.
+- 
+
+[.notes]
+--
+
+--
+
+=== What: Close
+
+- what about retrospective action ?
+- what about retrospective ?
+
+[.notes]
+--
+
 --
 
 === Smells
 
+[%step]
 - previous retro action not implemented.
+[%step]
+- no retrospective follow-up.
+[%step]
+- problem/solution approach.
+[%step]
+- start action at the end of the sprint.
 
 [.notes]
 --
 - why doing a new retro ?
-- wasted time ?
+- why wait retrospective to fix problem ?
+- how to measure impact ? increase effectiveness ?
 --
 
 === Resources
 
 - https://www.funretrospectives.com
 - https://retromat.org/
+- *Agile Retrospectives* by Esther Derby & Diana Larsen.
