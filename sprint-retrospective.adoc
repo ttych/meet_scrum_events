@@ -157,3 +157,29 @@ A collaborative Flow !
 - https://www.funretrospectives.com
 - https://retromat.org/
 - *Agile Retrospectives* by Esther Derby & Diana Larsen.
+
+=== Action Follow-up
+
+[cols="1,1,1,1,1,1,1,1"]
+|===
+|ACTION |TODO |DOING |DONE |SINCE |EFFECT R+1 |EFFECT R+2 |EFFECT R+3
+
+|action1
+|
+|
+|
+|
+|
+|
+|
+
+|action2
+|
+|
+|
+|
+|
+|
+|
+
+|===
