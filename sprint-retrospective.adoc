@@ -16,7 +16,8 @@
 
 === Who
 
-The complete Scrum Team
+[%step]
+.*The complete Scrum Team*
 - Product Owner
 - Scrum Master
 - Developers
@@ -27,11 +28,15 @@ The complete Scrum Team
 
 === Outcome
 
-.Actions to
+[%step]
+Actions to
+
 [%step]
 - improve Team/Interactions/Processes
 
-.That are
+[%step]
+That are
+
 [%step]
 - coherent
 [%step]
@@ -76,9 +81,13 @@ A collaborative Flow !
 
 === What: Set the stage
 
-- Short: 5 minutes.
+[%step]
+- Short.
+[%step]
 - Prime directive.
+[%step]
 - Energizer.
+[%step]
 - Be in the retrospective mindset.
 
 [.notes]
@@ -88,15 +97,17 @@ A collaborative Flow !
 
 === The Prime Directive
 
-.Regardless of what we discover, we understand and truly believe that everyone did the best job they could, given what they knew at the time, their skills and abilities, the resources available, and the situation at hand.
-[quote, Norm Kerth, Project Retrospectives: A Handbook for Team Review]
+"Regardless of what we discover, we understand and truly believe that everyone did the best job they could, given what they knew at the time, their skills and abilities, the resources available, and the situation at hand."
+-- Norm Kerth, Project Retrospectives: A Handbook for Team Review
 
 === What: Gather Data
 
+[%step]
 - be factual.
+[%step]
 - avoid emotional.
-- no reasons, no ideas.
-- no actions.
+[%step]
+- not looking for ideas, root causes, actions.
 
 [.notes]
 --
@@ -107,17 +118,25 @@ A collaborative Flow !
 === What: Generate insights
 
 - generate ideas.
-- find the right problem.
+- identify the right problem.
+- find the root cause.
 
 [.notes]
 --
+.workshops
+- 5 whys.
+- brainstorming/filtering.
+- Cause-Effect-Diagram.
 --
 
 === What: Decide what to do
 
+[%step]
 - a consequence from the previous step.
+[%step]
+- an actionnable.
+[%step]
 - find the right formulation.
-- 
 
 [.notes]
 --
@@ -126,7 +145,9 @@ A collaborative Flow !
 
 === What: Close
 
+[%step]
 - what about retrospective action ?
+[%step]
 - what about retrospective ?
 
 [.notes]
