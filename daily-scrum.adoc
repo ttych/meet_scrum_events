@@ -1,8 +1,53 @@
 == Daily Scrum
 
-=== Flow
+[.notes]
+--
+
+--
+
+=== Focus
+
+[.notes]
+--
+
+--
+
+=== Who
+
+[.notes]
+--
+
+--
+
+=== Outcome
+
+[.notes]
+--
+
+--
+
+=== What: Flow
 
 - Niko-Niko
 - 3 Questions
 - Burn-down chart
 - Retrospective actions
+
+[.notes]
+--
+
+--
+
+=== Smells
+
+[.notes]
+--
+
+--
+
+=== Resources
+
+[.notes]
+--
+
+--
