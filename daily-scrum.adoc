@@ -7,42 +7,126 @@
 
 === Focus
 
+On progress toward the Sprint Goal.
+
 [.notes]
 --
-
+- transparency: everyone on the team synced and up to date on what has
+  been done, and what still needs to be completed.
+- inspection: progression towards the sprint goal.
+- adaptation: need to re-plan today based on events that happened the previous business day ?
 --
 
 === Who
 
+[%step]
+- *Developers*
+
 [.notes]
 --
-
+- Scrum Master and PO welcome, if working also as Developers.
 --
 
 === Outcome
 
-[.notes]
---
+- Updated Plan for the next day of work.
 
---
+[%step]
+and then:
 
-=== What: Flow
-
-- Niko-Niko
-- 3 Questions
-- Burn-down chart
-- Retrospective actions
+[%step]
+- Updated Sprint Backlog.
+- Updated burn-down chart.
 
 [.notes]
 --
 
 --
+
+=== What: Macro
+
+- Time-box: 15 minutes (MAX).
+- Self-management.
+- Identify impediments.
+- Transparency, Inspect, Adapt.
+
+[.notes]
+--
+- promote quick decision-making.
+--
+
+=== What: "The 3 Questions"
+
+[%step]
+--
+- *What did you do yesterday* [.step]#to help achieve the sprint goal# ?
+- *What will you do today* [.step]#to achieve the sprint goal# ?
+- *What (if anything) is blocking your progress* [.step]#toward the sprint goal# ?
+--
+
+[.notes]
+--
+- risk of focusing on people instead of sprint goal.
+--
+
+=== What: "The 3 Questions" flow
+
+[%step]
+- ask everyone, what has been done.
+[%step]
+- update the burn-down chart.
+[%step]
+- then decide, what should be done next.
+
+[.notes]
+--
+
+--
+
+=== What: "Walk the Board" flow
+
+[%step]
+- check all items on the board, [.step]#instead of checking all members#
+- order is defined by task priority, [.step]#instead of speaking order#
+- easy focus on the board, the priority, the Sprint Goal
+
+[.notes]
+--
+- address task only once
+- focus on priority
+- focus on sprint goal
+--
+
+// === What: arround than the sprint goal
+
+// - Retrospective actions
+// - Niko-Niko
+ 
+// [.notes]
+// --
+
+// --
 
 === Smells
 
+[%step]
+- a status meeting.
+[%step]
+- technical discussion.
+[%step]
+- wait stand-up to address problem.
+[%step]
+- wait stand-up to discuss.
+[%step]
+- no inspection on sprint goal.
+[%step]
+- no respect for priority.
+[%step]
+- inspection with adaptation.
+[%step]
+- self-focused instead of sprint-focused.
 [.notes]
 --
-
 --
 
 === Resources
